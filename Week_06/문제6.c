@@ -57,5 +57,5 @@ int main(void) {
 	if (found == 1)
 		printf("%d\n", search);
 	else
-		printf("no\n");
+		printf("not found\n");
 }
