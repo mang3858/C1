@@ -14,5 +14,6 @@ C언어 과제
 - https://github.com/mang3858/C/tree/main/TestFinal
 
 # 컴퓨터 프로그래밍
+- https://github.com/mang3858/C/tree/main/Week_01
 
 # 문제해결기법
