@@ -1,0 +1,6 @@
+﻿  LABHW3_1.c
+C:\Users\mang3\Desktop\github\C\컴프\Week02\LABHW3_1\LABHW3_1.c(9,31): warning C4013: 'sumList'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\mang3\Desktop\github\C\컴프\Week02\LABHW3_1\LABHW3_1.c(10,42): warning C4013: 'maxList'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\mang3\Desktop\github\C\컴프\Week02\LABHW3_1\LABHW3_1.c(16,17): warning C4013: 'indexSearch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\mang3\Desktop\github\C\컴프\Week02\LABHW3_1\LABHW3_1.c(7,6): warning C4101: 'keyIndex' :참조되지 않은 지역 변수입니다.
+  LABHW3_1.vcxproj -> C:\Users\mang3\Desktop\github\C\컴프\Week02\Debug\LABHW3_1.exe
