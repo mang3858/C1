@@ -9,8 +9,3 @@
 - https://github.com/mang3858/C/tree/main/Week_13
 - https://github.com/mang3858/C/tree/main/Week_14
 - https://github.com/mang3858/C/tree/main/TestFinal
-
-# 컴퓨터 프로그래밍
-- https://github.com/mang3858/C/tree/main/Week_01
-- https://github.com/mang3858/C/tree/main/Week_02
-
